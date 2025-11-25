@@ -1,0 +1,152 @@
+# cSpell: disable
+---
+name: cyc
+version: "2025-11-25"
+sort: by_weight
+...
+
+# 字
+吋	cun	1
+
+# 常用詞
+发炉	fa lu	1
+模具	mo ju	1
+模样	mo yang	1
+有模有样	you mo you yang	1
+一模一样	yi mo yi yang	1
+装模作样	zhuang mo zuo yang	1
+人模狗样	ren mo gou yang	1
+模板	mo ban	1
+阿嬤	a ma	1
+鲍率	bao lv	1
+避障	bi zhang	1
+打咩	da mie	1
+代理器	dai li qi	1
+地吸引力	di xi yin li	1
+关卡	guan ka	1
+函式	han shi	1
+河鲀	he tun	1
+滑鼠	hua shu	1
+回授	hui shou	1
+计画	ji hua	1
+基隆	ji long	1
+缴交	jiao jiao	1
+校正	jiao zhong	1
+垃圾	le se	1
+列印	lie yin	1
+没差	mei cha	1
+面线	mian xian	1
+母湯	mu tang	1
+內用	nei yong	1
+乒乓球	ping pang qiu	1
+乒乒乓乓	ping ping pang pang	1
+取读	qu du	1
+韧体	ren ti	1
+骰	shai	1
+骰子	shai zi	1
+烧脑	shao nao	1
+啥小	shao xiao	1
+涉略	she lue	1
+实做	shi zuo	1
+缩排	suo pai	1
+條列式	tiao lie shi	1
+细项	xi xiang	1
+相差无异	xiang cha wu yi	1
+萤幕	ying mu	1
+永远的神	yong yuan de shen	1
+侦错	zhen cuo	1
+紙本	zhi ben	1
+致能	zhi neng	1
+置中	zhi zhong	1
+子题	zi ti	1
+字型	zi xing	1
+
+药炖排骨	yao dun pai gu	1
+优酪乳	you luo ru	1
+混淆	hun yao	1
+支言支语	zhi yan zhi yu	1
+說服	shui fu	1
+很溼	hen shi	1
+瞭解	liao jie	1
+鮪魚	wei yu	1
+
+# 专有名词 (沒有縮寫)
+布林	bo lin	1
+布林值	bo lin zhi	1
+抽抽乐	chou chou le	1
+二維光達	er wei guang da	1
+逢甲	feng jia	1
+稽纳二极体	ji na er ji ti	1
+光学雷达	lidar	1
+卢恩	lu en	1
+麦味登	mai wei deng	1
+旗标	qi biao	1
+R平方	rsquare	1
+决定系数	rsquare	1
+体素	ti su	1
+网域	wang yu	1
+位姿	wi zi
+
+
+# 专有名词 (有缩写)
+自适应控制器	ac	1
+自动引导车	agv	1
+人工智能	ai	1
+人工智慧物联网	aiot	1
+自主式移动机器人	amr	1
+人工神经网路	ann	1
+绝对位姿误差	ape	1
+扩增实境	ar	1
+绝对轨迹误差	ate	1
+带通滤波器	bpf	1
+卷积神经网路	cnn	1
+统一计算架构	cuda	1
+CUDA 深度网络函式库	cudnn	1
+资料分布服务	dds	1
+深度学习	dl	1
+深度神经网路	dnn	1
+深度强化学习	drl	1
+数位孪生	dt	1
+数位孪生系统	dts	1
+扩展卡尔曼滤波器	ekf	1
+正运动学	fk	1
+前馈神经网路	fnn	1
+遗传演算法	ga	1
+人机互动界面	hci	1
+高通滤波器	hpf	1
+人机互动界面	hri	1
+超文本标记语言	html	1
+逆运动学	ik	1
+惯性量测单元	imu	1
+物联网 	iot	1
+积分平方误差	ise	1
+卡尔曼滤波器	kf	1
+金钥管理伺服器	kms	1
+低通滤波器	lpf	1
+线性二次调节器	lqr	1
+长短期记忆	lstm	1
+平均绝对误差	mae	1
+机器学习	ml	1
+多层感知机	mlp	1
+混合实境	mr	1
+平均平方误差	mse	1
+神经网路	nn	1
+全方位轮型移动机器人	owmr	1
+产品生命周期管理	plm	1
+现实轮型移动机器人	pwmr	1
+强化学习	rl	1
+均方根误差	rmse	1
+递回神经网路	rnn	1
+机器人操作系统	ros	1
+相对位姿误差	rpe	1
+树莓派	rpi	1
+及时操作系统	rtos	1
+同时定位与地图构建	slam	1
+最先进的	sota	1
+单次多框侦测器	ssd	1
+无迹卡尔曼滤波器	ukf	1
+统一机器人描述格式	urdf	1
+虚拟实境	vr	1
+虚拟轮型移动机器人	vwmr	1
+轮型移动机器人	wmr	1
+

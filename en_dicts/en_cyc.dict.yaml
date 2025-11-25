@@ -1,0 +1,307 @@
+# cSpell: disable
+#
+# Rime dictionary
+# encoding: utf-8
+#
+# https://github.com/iDvel/rime-ice
+# ------- 中英混输词库 for 全拼 -------
+# 由 others/cn_en.txt 自动生成
+# 编码前的 ⓘ 符号是为了防止英文方案拼写派生时派生出全大写字母（在 melt_eng.schema.yaml 中实现）
+# 示例：输入 txu 得到 T恤；输入 Txu 得到 T恤； 输入 TXU 则只会得到 TXU
+# TODO: 新增前綴，不然一直出現候選字很煩
+---
+name: en_cyc
+version: "2025-11-25"
+sort: by_weight
+...
+# 常用詞
+accelerometer	accelerometer
+AdGuard	adguard
+colcon	colcon
+CMakeLists	cmakelists
+fazzy	fazzy
+gyroscope	gyroscope
+heatmap	heatmap
+keymap	keymap
+MOSFET	mosfet
+ping	ping
+QRCode	qrcode
+std	std
+Xacro	xacro
+
+Inductor	inductor
+depicition	depicition
+
+# 專有名詞 (沒有縮寫)
+actuator	actuator
+Altera	ⓘAltera
+amiibo	amiibo
+AnyDesk	ⓘAnyDesk
+Arduino	ⓘArduino
+armhf	ⓘarmhf
+AsciiDoc	ⓘAsciiDoc
+cartographer	cartographer
+catkin	catkin
+convolutional layer	convolutionallayer
+CoppeliaSim	ⓘCoppeliaSim
+distro	distro
+Dockerfile	Dockerfile
+Draw.io	ⓘDrawio
+Extrapolator	extrapolator
+fully connected layer	fullyconnectedlayer
+Gazebo	ⓘGazebo
+jetson	jetson
+JLCPCB	jlcpcb
+kinematics	kinematics
+kinetic	kinetic
+kinetic	kinetic
+LiDAR	ⓘLiDAR
+machine vision	machinevision
+MATLAB	matlab
+melodic	melodic
+mouser	mouser
+mqtt	mqtt
+msg	msg
+netplan	netplan
+Nios	ⓘNios
+nmtui	nmtui
+noetic	noetic
+Odometer	odometer
+OpenCR	ⓘOpenCR
+OpenCR	opencr
+OpenCV	ⓘOpenCV
+PChome	pchome
+perdiction	perdiction
+PID	pid
+pip	ⓘpip
+pooling layer	poolingallayer
+PowerToys	ⓘPowerToys
+PyTorch	ⓘPyTorch
+Qsys	ⓘQsys
+quartus	ⓘQuartus
+Robot Vision	robotvision
+rqt	rqt
+R-square	rsquare
+RViz	rviz
+sigmoid	sigmoid
+srv	srv
+sudo	sudo
+talker	talker
+teleop	teleop
+teleoperation	teleoperation
+tmux	ⓘtmux
+Ventoy	ⓘVentoy
+verbose	verbose
+verilog	verilog
+Visio	ⓘVisio
+voxel	voxel
+Zalgo	ⓘZalgo
+
+costco	costco
+
+# 專有名詞 (有縮寫)
+Absolute Pose Error	absoluteposeerror
+Absolute Pose Error	ape
+Absolute Trajectory Error	absolutetrajectoryerror
+Absolute Trajectory Error	ate
+AC	ac
+Adaptive Controllers	adaptivecontrollers
+Adaptive Controllers	ac
+AGV	agv
+AI	ai
+AIoT	aiot
+Altium Designer	altiumdesigner
+Altium Designer	ad
+AMR	amr
+ANN	ann
+ANNs	anns
+APE	ape
+AR	ar
+Artificial Intelligence	artificialintelligence
+Artificial Intelligence	ai
+Artificial Intelligence of Things	artificialintelligenceofthings
+Artificial Intelligence of Things	aiot
+Artificial Neural Network	artificialneuralnetwork
+Artificial Neural Network	ann
+Artificial Neural Network	anns
+ATE	ate
+Augmented Reality	augmentedreality
+Augmented Reality	ar
+Automated Guided Vehicle	automatedguidedvehicle
+Automated Guided Vehicle	agv
+Autonomous Mobile Robot	autonomousmobilerobot
+Autonomous Mobile Robot	amr
+Band-pass Filter	bandpassfilter
+Band-pass Filter	bpf
+BPF	bpf
+CNN	cnn
+Compute Unified Device Architecture	computeunifieddevicearchitecture
+Compute Unified Device Architecture	cuda
+Convolutional Neural Network	convolutionalneuralnetwork
+Convolutional Neural Network	cnn
+CUDA	cuda
+CUDA Deep Neural Network	cudadeepneuralnetwork
+CUDA Deep Neural Network	cudnn
+cuDNN	cudnn
+Data Distribution Service	datadistributionservice
+Data Distribution Service	dds
+DDS	dds
+Deep Learning	deeplearning
+Deep Learning	dl
+Deep Neural Network	deepneuralnetwork
+Deep Neural Network	dnn
+Deep reinforcement learning	deepreinforcementlearning
+Deep reinforcement learning	drl
+Digital Twin	digitaltwin
+Digital Twin	dt
+Digital Twin	dts
+Digital Twin System	digitaltwinsystem
+DL	dl
+DNN	dnn
+DRL	drl
+DT	dt
+DTS	dts
+EKF	ekf
+Extended Kalman filter	extendedkalmanfilter
+Extended Kalman filter	ekf
+Feed Forward Network	feedforwardnetwork
+Feed Forward Network	ffn
+FFN	ffn
+FK	fk
+For Your Reference	foryourreference
+for your reference	fyr
+Forward Kinematics	forwardkinematics
+Forward Kinematics	fk
+FYR	fyr
+GA	ga
+Genetic Algorithm	geneticalgorithm
+Genetic Algorithm	ga
+HCI	hci
+HRI	hri
+HTML	html
+Human Computer Interface	humancomputerinterface
+Human Computer Interface	hci
+Human Robot Interface	humanmachineinterface
+Human Robot Interface	hri
+HyperText Markup Language	HyperTextMarkupLanguage
+HyperText Markup Language	html
+IK	ik
+IMU	imu
+Inertial Measurement Unit	inertialmeasurementunit
+Inertial Measurement Unit	imu
+Integrated Squared Error	integratedsquarederror
+Integrated Squared Error	ise
+Internet of Things	internetofthings
+Internet of Things	iot
+Inverse Kinematics	inversekinematics
+Inverse Kinematics	ik
+IoT	iot
+ISE	ise
+Kalman Filter	kalmanfilter
+Kalman Filter	kf
+Key Management Server	keymanagementserver
+Key Management Server	kms
+KF	kf
+KMS	kms
+Linear-Quadratic Regulator	linearquadraticregulator
+Linear-Quadratic Regulator	lqr
+Long Short-Term Menory	longshorttermmenory
+Long Short-Term Menory	lstm
+LQR	lqr
+LSTM	lstm
+Machine Learning	machinelearning
+Machine Learning	ml
+MAE	mae
+Mean Absolute Error	meanabsoluteerror
+Mean Absolute Error	mae
+Mean Squared Error	meansquarederror
+Mean Squared Error	mse
+Mixed Reality	mixedreality
+Mixed Reality	mr
+MH	mh
+Monster Hounter	monsterhunter
+Monster Hounter	mh
+ML	ml
+MLP	mlp
+MR	mr
+MSE	mse
+Multilayer Perceptron	multilayerperceptron
+Multilayer Perceptron	mlp
+Neural Network	neuralnetwork
+Neural Network	nn
+Next Unit of Computing	nextunitofcomputing
+Next Unit of Computing	nuc
+NN	nn
+NUC	nuc
+OBS	obs
+OBS Studio	obsstudio
+OBS Studio	obs
+Omni-directional Wheel Mobile Robot	owmr
+Omni-directional Wheel Mobile Robot 	omnidirectionalwheelmobilerobot
+OWMR	owmr
+Physical Wheeled Mobile Robot	physicalwheeledmobilerobot
+Physical WMR	physicalwmr
+Physical WMR	pwmr
+PLM	plm
+Product Lifecycle Management	productlifecyclemanagement
+Product Lifecycle Management	plm
+proxmox	proxmox
+proxmox	pve
+PWMR	pwmr
+Raspberry Pi	raspberrypi
+Raspberry Pi	rpi
+Real-Time Operating System	realtimeroperatingsystem
+Real-Time Operating System	rtos
+Recurrent Neural Network	recurrentnetwork
+Recurrent Neural Network	rnn
+Reinforcement Learning	reinforcementlearning
+Reinforcement Learning	rl
+Relative Pose Error	relativeposeerror
+Relative Pose Error	rpe
+RL	rl
+RMSE	rmse
+RNN	rnn
+Robot Operating System	robotoperatingsystem
+Robot Operating System	ros
+Root Mean Squared Error	rootmeansquarederror
+Root Mean Squared Error	rmse
+ROS	ros
+RPE	rpe
+RPi	rpi
+RTOS	rtos
+Simultaneous Localization and Mapping	simultaneouslocalizationandmapping
+Simultaneous Localization and Mapping	slam
+Single Shot MultiBox Detector	singleshotmultiboxdetector
+Single Shot MultiBox Detector	ssd
+SLAM	slam
+SolidWorks	solidworks
+SolidWorks	sw
+SOTA	sota
+SSD	ssd
+State-of-the-art	stateoftheart
+State-of-the-art	sota
+turtlebot	turtlebot
+turtlebot3	turtlebot
+turtlebot3	tb
+UKF	ukf
+Unified Robot Description Format	unifiedrobotdescriptionformat
+Unified Robot Description Format	urdf
+Unscented Kalman Filter	unscentedkalmanfilter
+Unscented Kalman Filter	ukf
+URDF	urdf
+USB On-The-Go	usbonthego
+USB On-The-Go	usbotg
+USB OTG	usbotg
+Virtual Reality	virtualreality
+Virtual Reality	vr
+Virtual Wheeled Mobile Robot	virtualwheeledmobilerobot
+Virtual WMR	virtualwmr
+Virtual WMR	vwmr
+VR	vr
+VWMR	vwmr
+Wheeled Mobile Robot	wheeledmobilerobot
+Wheeled Mobile Robot	wmr
+WMR	wmr
+YOLO	yolo
+You Only Look Once	youonlylookonce
+You Only Look Once	yolo
