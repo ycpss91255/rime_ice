@@ -67,7 +67,7 @@ engine:
     - lua_translator@*date_translator    # 时间、日期、星期
     - lua_translator@*lunar              # 农历
     - lua_translator@*uuid               # UUID
-    - table_translator@rase     # 自定义短语 custom_phrase.txt
+    - table_translator@custom_phrase     # 自定义短语 custom_phrase.txt
     - table_translator@melt_eng          # 英文输入
     - table_translator@cn_en             # 中英混合词汇
     - table_translator@radical_lookup    # 部件拆字反查
