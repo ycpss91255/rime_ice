@@ -7,4 +7,4 @@ customization:
 patch:
   "style/color_scheme": dark_temple
   "style/horizontal": false
-  "style/inline_preedit": false
+  "style/inline_preedit": true
