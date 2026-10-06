@@ -1,0 +1,4 @@
+# Compile the same custom English dictionary used by cyc_rime_ice.
+patch:
+  translator/dictionary: cyc_melt_eng
+  translator/prism: melt_eng

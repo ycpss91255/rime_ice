@@ -1,0 +1,3 @@
+# Reuse the spelling index compiled by the melt_eng dependency.
+patch:
+  melt_eng/prism: melt_eng
